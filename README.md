@@ -4,7 +4,7 @@ The gut microbiota (GM) and its metabolites affect the host nervous system and a
 * Functional prediction with 16S sequences
 * Correlations between GM and metabolites
 * Mediation effect analysis
-# Bioinformatic analysis
+# Bioinformatic contents
 ## GM network construction
 Applying the sparCC software, we constructed the GM co-occurrence networks. The related files and scripts can be found under the  ```Network``` folder.<br>
 
