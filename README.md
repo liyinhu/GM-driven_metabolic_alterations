@@ -18,6 +18,9 @@ Applying the mmVEC software, we deduced the relations between GM and metabolites
 ## Mediation effect analysis
 We adopted mediation analysis to decipher the intricate connections between GM alterations and disease occurrence via the mediation of metabolites. The related files and scripts can be found under the  ```Mediation``` folder.<br>
 
+# Citing
+Chen, Y., Li, Y., Fan, Y., Chen, S., Chen, L., Chen, Y., & Chen, Y. (2024). Gut microbiota-driven metabolic alterations reveal gut–brain communication in Alzheimer’s disease model mice. Gut Microbes, 16(1).
+
 # Contact
 
 Feel free to open an issue in Github or contact xjy005351@siat.ac.cn if you have any problem in practicing the scripts.
